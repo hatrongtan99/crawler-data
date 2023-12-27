@@ -1,0 +1,432 @@
+{
+    "Thiết bị đo cơ khí": {
+        "name": "Thiết bị đo cơ khí",
+        "slug": "thiet-bi-do-co-khi",
+        "thumbnailId": null,
+        "child": [
+            {
+                "name": "Panme",
+                "slug": "Panme",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-panme-1583996576.png"
+            },
+            {
+                "name": "Thước kẹp",
+                "slug": "Thuoc-kep",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-thuoc-cap-1583995736.png"
+            },
+            {
+                "name": "Thước đo góc nghiêng",
+                "slug": "Thuoc-djo-goc-nghieng",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-thuoc-do-goc-nghieng-1583997744.png"
+            },
+            {
+                "name": "Thước đo độ cao",
+                "slug": "Thuoc-djo-djo-cao",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-thuoc-do-do-cao-1583999558.png"
+            },
+            {
+                "name": "Thước đo độ sâu",
+                "slug": "Thuoc-djo-djo-sau",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-thuoc-do-do-sau-1584000120.png"
+            },
+            {
+                "name": "Thước lá, Dưỡng đo",
+                "slug": "Thuoc-la-Duong-djo",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-thuoc-la-1584001150.png"
+            },
+            {
+                "name": "Đồng hồ so",
+                "slug": "DJong-ho-so",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-dong-ho-so-1583995652.png"
+            },
+            {
+                "name": "Đồng hồ đo độ dày",
+                "slug": "DJong-ho-djo-djo-day",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-dong-ho-do-do-day-1584002944.png"
+            },
+            {
+                "name": "Bàn map, Bàn rà chuẩn",
+                "slug": "Ban-map-Ban-ra-chuan",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-ban-map-1584002209.png"
+            },
+            {
+                "name": "Mẫu chuẩn",
+                "slug": "Mau-chuan",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-mau-chuan-1584003856.png"
+            },
+            {
+                "name": "Chân đế",
+                "slug": "Chan-dje",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-chan-de-1584003550.png"
+            }
+        ]
+    },
+    "Thiết bị đo môi trường": {
+        "name": "Thiết bị đo môi trường",
+        "slug": "thiet-bi-do-moi-truong",
+        "thumbnailId": null,
+        "child": [
+            {
+                "name": "Máy đo độ ẩm",
+                "slug": "May-djo-djo-am",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-do-am-go-1584007195.png"
+            },
+            {
+                "name": "Máy đo nhiệt độ",
+                "slug": "May-djo-nhiet-djo",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-nhiet-do-0-1584065588.png"
+            },
+            {
+                "name": "Máy đo tốc độ gió",
+                "slug": "May-djo-toc-djo-gio",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-toc-do-gio-1584068598.png"
+            },
+            {
+                "name": "Máy đo cường độ ánh sáng",
+                "slug": "May-djo-cuong-djo-anh-sang",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-cuong-do-anh-sang-1584068749.png"
+            },
+            {
+                "name": "Máy đo độ ồn",
+                "slug": "May-djo-djo-on",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-do-on-1584069383.png"
+            },
+            {
+                "name": "Máy đo khí",
+                "slug": "May-djo-khi",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-khi-1584070778.png"
+            },
+            {
+                "name": "Máy đo độ bụi",
+                "slug": "May-djo-djo-bui",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-do-bui-1584070078.png"
+            }
+        ]
+    },
+    "Thiết bị đo chính xác": {
+        "name": "Thiết bị đo chính xác",
+        "slug": "thiet-bi-do-chinh-xac",
+        "thumbnailId": null,
+        "child": [
+            {
+                "name": "Máy đo khoảng cách laser",
+                "slug": "May-djo-khoang-cach-laser",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-khoang-cach-1584071714.png"
+            },
+            {
+                "name": "Máy cân bằng tia laser",
+                "slug": "May-can-bang-tia-laser",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-can-muc-laser-1584155703.PNG"
+            },
+            {
+                "name": "Máy thủy bình laser",
+                "slug": "May-thuy-binh-laser",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-thuy-binh-1584174436.PNG"
+            },
+            {
+                "name": "Máy đo độ dày vật liệu",
+                "slug": "May-djo-djo-day-vat-lieu",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-do-day-vat-lieu-1584151241.png"
+            },
+            {
+                "name": "Máy đo độ cứng",
+                "slug": "May-djo-djo-cung",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-do-cung-1584155896.png"
+            },
+            {
+                "name": "Máy đo độ nhớt",
+                "slug": "May-djo-djo-nhot",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-360-f-403208440-l4z23dpsbpoij6uucva0tcexlvfz0jyc-1675936790.jpg"
+            },
+            {
+                "name": "Máy đo độ nhám, độ bóng",
+                "slug": "May-djo-djo-nham-djo-bong",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-do-bong-1584161591.png"
+            },
+            {
+                "name": "Máy đo độ rung",
+                "slug": "May-djo-djo-rung",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-do-rung-1584161331.png"
+            },
+            {
+                "name": "Máy đo tốc độ vòng quay",
+                "slug": "May-djo-toc-djo-vong-quay",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-toc-do-vong-quay-1584168667.png"
+            },
+            {
+                "name": "Máy đo áp suất",
+                "slug": "May-djo-ap-suat",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-ap-suat-1584170506.png"
+            },
+            {
+                "name": "Máy đo màu sắc",
+                "slug": "May-djo-mau-sac",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-mau-1584174340.png"
+            },
+            {
+                "name": "Máy đo lực căng",
+                "slug": "May-djo-luc-cang",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-luc-cang-1584173495.png"
+            },
+            {
+                "name": "Máy đo lực kéo, đẩy, nén",
+                "slug": "May-djo-luc-keo-djay-nen",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-luc-cang-day-keo-1584173040.png"
+            },
+            {
+                "name": "TB kiểm tra không phá hủy",
+                "slug": "TB-kiem-tra-khong-pha-huy",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-tb-ktra-sieu-am-1584321729.png"
+            },
+            {
+                "name": "Máy đo thời tiết",
+                "slug": "May-djo-thoi-tiet",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-thoi-tiet-1584173723.png"
+            },
+            {
+                "name": "Máy đo độ trong suốt",
+                "slug": "May-djo-djo-trong-suot",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-do-trong-suot-1584171459.png"
+            },
+            {
+                "name": "Máy đo bức xạ điện từ",
+                "slug": "May-djo-buc-xa-djien-tu",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-buc-xa-dien-tu-1584154079.png"
+            },
+            {
+                "name": "Máy phát hiện rò rỉ bằng sóng siêu âm",
+                "slug": "May-phat-hien-ro-ri-bang-song-sieu-am",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-portable-icon-1601591539.png"
+            },
+            {
+                "name": "Cân Điện Tử",
+                "slug": "Can-DJien-Tu",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-can-ban-dien-tu-icon-1591690520.jpg"
+            },
+            {
+                "name": "Máy đo độ cao nước biển",
+                "slug": "May-djo-djo-cao-nuoc-bien",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-do-cao-nuoc-bien-1584153594.png"
+            }
+        ]
+    },
+    "Thiết bị đo & Kiểm tra điện": {
+        "name": "Thiết bị đo & Kiểm tra điện",
+        "slug": "thiet-bi-do-&-kiem-tr-dien",
+        "thumbnailId": null,
+        "child": [
+            {
+                "name": "Ampe kìm",
+                "slug": "Ampe-kim",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-ampe-kim-1583982125.png"
+            },
+            {
+                "name": "Đồng hồ vạn năng",
+                "slug": "DJong-ho-van-nang",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-dong-ho-van-nang-1583982439.png"
+            },
+            {
+                "name": "Đồng hồ đo Megomet",
+                "slug": "DJong-ho-djo-Megomet",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-dong-ho-do-megomet-1583982737.png"
+            },
+            {
+                "name": "Máy hiện sóng Oscilloscope",
+                "slug": "May-hien-song-Oscilloscope",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-hien-song-1583982569.png"
+            },
+            {
+                "name": "Máy đo LCR",
+                "slug": "May-djo-LCR",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-lcr-1583982833.png"
+            },
+            {
+                "name": "Đồng hồ chỉ thị pha",
+                "slug": "DJong-ho-chi-thi-pha",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-dong-ho-chi-thi-pha-1583984508.png"
+            },
+            {
+                "name": "Bút thử điện",
+                "slug": "But-thu-djien",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-but-thu-dien-1583983808.png"
+            },
+            {
+                "name": "Máy đo trở kháng",
+                "slug": "May-djo-tro-khang",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-dien-tro-khang-1583983160.png"
+            },
+            {
+                "name": "Thiết bị kiểm tra dòng rò",
+                "slug": "Thiet-bi-kiem-tra-dong-ro",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-tb-kt-dong-do-0-1583986883.png"
+            },
+            {
+                "name": "Thiết bị đo an toàn điện",
+                "slug": "Thiet-bi-djo-an-toan-djien",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-tb-kt-an-toan-dien-1583985210.png"
+            },
+            {
+                "name": "Thiết bị kiểm tra ắc quy, pin",
+                "slug": "Thiet-bi-kiem-tra-ac-quy-pin",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-tb-kt-pin-ac-quy-1583984305.png"
+            },
+            {
+                "name": "Máy đo điện trở đất",
+                "slug": "May-djo-djien-tro-djat",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-dien-tro-dat-1584169349.png"
+            },
+            {
+                "name": "Thiết bị ghi dữ liệu",
+                "slug": "Thiet-bi-ghi-du-lieu",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-ghi-du-lieu-1584072842.png"
+            },
+            {
+                "name": "Thiết bị tĩnh điện",
+                "slug": "Thiet-bi-tinh-djien",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-icon-thiet-bi-tinh-dien-1606207849.jpg"
+            },
+            {
+                "name": "Thiết bị đo điện trở thấp",
+                "slug": "Thiet-bi-djo-djien-tro-thap",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-sonel-mru-30-1617592605.jpg"
+            },
+            {
+                "name": "Thiết bị kiểm tra điện áp cao",
+                "slug": "Thiet-bi-kiem-tra-djien-ap-cao",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-do-dien-cao-ap-1620634303.png"
+            },
+            {
+                "name": "Thiết bị nguồn DC, AC",
+                "slug": "Thiet-bi-nguon-DC-AC",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-icon-1664249036.jpg"
+            },
+            {
+                "name": "Máy hiệu chuẩn tín hiệu quá trình",
+                "slug": "May-hieu-chuan-tin-hieu-qua-trinh",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-tin-hieu-1632973908.png"
+            }
+        ]
+    },
+    "Dụng cụ điẹn": {
+        "name": "Dụng cụ điẹn",
+        "slug": "dung-cu-dien",
+        "thumbnailId": null,
+        "child": [
+            {
+                "name": "Máy Khoan",
+                "slug": "May-Khoan",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-drill-1583900054.png"
+            },
+            {
+                "name": "Máy Siết Bu Lông",
+                "slug": "May-Siet-Bu-Long",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-siet-bu-long-1609811935.jpg"
+            },
+            {
+                "name": "Máy Mài Cầm Tay",
+                "slug": "May-Mai-Cam-Tay",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-41458-200-1583900209.png"
+            },
+            {
+                "name": "Máy Cưa",
+                "slug": "May-Cua",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-cat-1583981045.png"
+            },
+            {
+                "name": "Máy Cắt",
+                "slug": "May-Cat",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-cat-1583989097.png"
+            },
+            {
+                "name": "Máy Hàn",
+                "slug": "May-Han",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-png-80-1590826785.png"
+            },
+            {
+                "name": "Máy Bắt Vặn Ốc Vít",
+                "slug": "May-Bat-Van-Oc-Vit",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-van-vit-1583921191.png"
+            },
+            {
+                "name": "Máy Rửa Xe",
+                "slug": "May-Rua-Xe",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-rua-xe-1583980576.png"
+            },
+            {
+                "name": "Máy Chà Nhám",
+                "slug": "May-Cha-Nham",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-cha-nham-1584149600.png"
+            },
+            {
+                "name": "Máy Đục Bê Tông",
+                "slug": "May-DJuc-Be-Tong",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-duc-be-tong-1583920826.png"
+            },
+            {
+                "name": "Bàn Cắt Gạch",
+                "slug": "Ban-Cat-Gach",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-cagach-1584161736.png"
+            },
+            {
+                "name": "Máy Phay",
+                "slug": "May-Phay",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-phay-1583978689.png"
+            },
+            {
+                "name": "Máy Đánh Bóng",
+                "slug": "May-DJanh-Bong",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-danh-bong-2-1583979059.png"
+            },
+            {
+                "name": "Máy Hàn Thiếc",
+                "slug": "May-Han-Thiec",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-han-1584005651.png"
+            },
+            {
+                "name": "Máy Khuấy Trộn Sơn",
+                "slug": "May-Khuay-Tron-Son",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-tron-khuay-son-1583980053.png"
+            },
+            {
+                "name": "Súng Bắn Keo",
+                "slug": "Sung-Ban-Keo",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-sung-ban-keo-1583980157.png"
+            },
+            {
+                "name": "Máy Thổi Bụi",
+                "slug": "May-Thoi-Bui",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-thoi-bui-1583980792.png"
+            },
+            {
+                "name": "Máy Hút Bụi",
+                "slug": "May-Hut-Bui",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-hut-bui-1592880465.jpg"
+            },
+            {
+                "name": "Máy Bào Gỗ",
+                "slug": "May-Bao-Go",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-bao-go-1583978497.png"
+            },
+            {
+                "name": "Máy Khò Nhiệt",
+                "slug": "May-Kho-Nhiet",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-kho-nhiet-1583979889.png"
+            },
+            {
+                "name": "Máy Bắn Đinh, Ghim",
+                "slug": "May-Ban-DJinh-Ghim",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-ban-dinh-ghim-1-1609812099.png"
+            },
+            {
+                "name": "Phụ kiện khác",
+                "slug": "Phu-kien-khac",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-phu-kien-may-1609812729.png"
+            },
+            {
+                "name": "Dụng cụ điện khác",
+                "slug": "Dung-cu-djien-khac",
+                "imageUrl": "/Users/tanha/dev/work/data/dienmaykimkhi/images/categories/x50-may-khac-1609812784.jpg"
+            }
+        ]
+    }
+}

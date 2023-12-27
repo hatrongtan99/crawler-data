@@ -1,0 +1,71 @@
+{
+    "name": "Máy khoan bê tông Bosch GBH 2-26 DRE",
+    "shortDescription": "",
+    "description": "mo ta",
+    "sku": "GBH 2-26 DRE",
+    "slug": "May-khoan-be-tong-Bosch-GBH-2-26-DRE",
+    "price": 3490000,
+    "thumbnailId": 610,
+    "brandId": 1,
+    "categoryId": [
+        62
+    ],
+    "images": [
+        610,
+        611,
+        612,
+        613
+    ],
+    "productRelate": [],
+    "metadata": [
+        {
+            "name": "Công suất",
+            "value": "800W"
+        },
+        {
+            "name": "Năng lượng va đập",
+            "value": "3 J"
+        },
+        {
+            "name": "Tốc độ đập",
+            "value": "0 – 4000 vòng/phút"
+        },
+        {
+            "name": "Tốc độ không tải",
+            "value": "0 – 900 vòng/phút"
+        },
+        {
+            "name": "Trọng lượng",
+            "value": "2.9 kg"
+        },
+        {
+            "name": "Kích thước",
+            "value": "407mm x 83mm x 210mm (Dài x rộng x cao)"
+        },
+        {
+            "name": "Đầu kẹp mũi khoan",
+            "value": "SDS-plus"
+        },
+        {
+            "name": "Đường kính khoan bê tông",
+            "value": "4 – 26 mm"
+        },
+        {
+            "name": "Làm việc tối ưu trên bê tông, các mũi khoan búa",
+            "value": "8 – 16 mm"
+        },
+        {
+            "name": "Đường kính khoan gạch",
+            "value": "26 mm"
+        },
+        {
+            "name": "Đường kính khoan thép",
+            "value": "13 mm"
+        },
+        {
+            "name": "Đường kính khoan gỗ",
+            "value": "30 mm"
+        }
+    ],
+    "isAvailInStock": false
+}
