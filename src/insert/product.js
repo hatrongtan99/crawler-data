@@ -100,6 +100,8 @@ const insertProduct = async () => {
                 price: product.price,
                 thumbnailId: listImagesId[0],
                 brandId: brandId || 1,
+                guarantee: product.guarantee,
+                attributes: product.attributes,
                 categoryId: [62],
                 images: listImagesId,
                 productRelate: [],

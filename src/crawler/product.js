@@ -87,14 +87,17 @@ const crawlerDetailProduct = async (
         throw new Error("invalid input");
     }
     const result = [];
+    let expectReuslt = urlProduct.length;
     let isDone = false;
 
     for (let i = 0; i < urlProduct.length; i++) {
         const urlItem = urlProduct[i];
 
         request(urlItem, async (err, response, body) => {
+            console.log("send request to item: " + i);
             if (err) {
                 console.log(err);
+                --expectReuslt;
                 return;
             }
             const $ = cheerio.load(body);
@@ -117,7 +120,20 @@ const crawlerDetailProduct = async (
                 .find("p")
                 .text()
                 .slice("Mã sản phẩm: ".length);
+            const guarantee = $(".price_box")
+                .next()
+                .next()
+                .next()
+                .find("p")
+                .text()
+                .slice("Bảo hành: ".length);
             const metadata = [];
+            const attributes = [
+                {
+                    attributeId: 1,
+                    items: [],
+                },
+            ];
             const listUrlImage = [];
 
             // load images
@@ -143,7 +159,7 @@ const crawlerDetailProduct = async (
             $(".property_customs .content p").each((i, el) => {
                 const [name, value] = $(el).text().split(": ");
                 if (name && value) {
-                    metadata.push({
+                    attributes[0].items.push({
                         name,
                         value,
                     });
@@ -155,18 +171,21 @@ const crawlerDetailProduct = async (
                 shortDescription: "",
                 description,
                 sku,
-                slug: slugify(title),
+                slug: slugify(title, { lower: true }),
+                guarantee,
                 price: price,
                 brand,
                 images: listUrlImage,
                 productRelate: null,
                 metadata,
+                attributes,
                 isAvailInStock: false,
             };
 
             result.push(newProduct);
 
-            if (i == urlProduct.length - 1) {
+            if (result.length == expectReuslt) {
+                console.log("begin save save file");
                 isDone = true;
             }
         });

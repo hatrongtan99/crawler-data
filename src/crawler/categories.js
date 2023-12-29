@@ -3,14 +3,13 @@ const request = require("request");
 const fs = require("fs");
 const path = require("path");
 
-const slugify = require("slugify");
-
 const {
     getFileNameFromUrl,
     dowload,
     checkOrCreateDir,
     checkOrCreateFile,
 } = require("../utiles");
+const { default: slugify } = require("slugify");
 
 const dest = path.join(__dirname, "../../images/categories");
 
@@ -77,7 +76,7 @@ const crawlerCategory = () => {
                                 dest + "/" + getFileNameFromUrl(urlThumb);
                             const cate = {
                                 name: nameCategory,
-                                slug: slugify(nameCategory),
+                                slug: slugify(nameCategory, { lower: true }),
                             };
                             cate.imageUrl = await dowload(
                                 urlThumb,

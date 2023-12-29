@@ -1,249 +1,11 @@
 [
     {
-        "name": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "GSB 16 RE",
-        "slug": "May-khoan-djong-luc-Bosch-GSB-16-RE-Vali-nhua",
-        "price": 1650000,
-        "brand": "Bosch",
-        "images": [
-            {
-                "caption": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-khoan-dong-luc-bosch-gsb-16-re-1.jpg"
-            },
-            {
-                "caption": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-khoan-dong-luc-bosch-gsb-16-re-2.jpg"
-            },
-            {
-                "caption": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-khoan-dong-luc-bosch-gsb-16-re-3.jpg"
-            },
-            {
-                "caption": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-khoan-dong-luc-bosch-gsb-16-re-4.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Đầu vào công suất định mức",
-                "value": "750W"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 – 3250 vòng/phút"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1.6 kg"
-            },
-            {
-                "name": "Ren nối trục chính máy khoan",
-                "value": "1/2″-20 UNF"
-            },
-            {
-                "name": "Khả năng của đầu cặp",
-                "value": "1,5 – 13 mm"
-            },
-            {
-                "name": "Tỷ lệ va đập ở tốc độ không tải",
-                "value": "0 – 48000 vòng/phút"
-            },
-            {
-                "name": "Đường kính khoan trên bê tông",
-                "value": "16 mm"
-            },
-            {
-                "name": "Đường kính khoan trên gỗ",
-                "value": "25 mm"
-            },
-            {
-                "name": "Đường kính khoan trên thép",
-                "value": "12 mm"
-            },
-            {
-                "name": "Sản xuất tại",
-                "value": "Malaysia"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "GSB 180-LI",
-        "slug": "May-khoan-van-vit-dung-Pin-Bosch-GSB-180-LI-kem-phu-kien",
-        "price": 3240000,
-        "brand": "Bosch",
-        "images": [
-            {
-                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-500.jpg"
-            },
-            {
-                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh1.jpg"
-            },
-            {
-                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh2.jpg"
-            },
-            {
-                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh3.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Lực xoắn tối đa (cứng / mềm)",
-                "value": "21/54 Nm"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 – 450/0 – 1700 vòng / phút"
-            },
-            {
-                "name": "Tốc độ đập",
-                "value": "27.000 lần/phút"
-            },
-            {
-                "name": "Loại pin Lithium-ion",
-                "value": "2.0 Ah"
-            },
-            {
-                "name": "Đường kính khoan gỗ",
-                "value": "35mm"
-            },
-            {
-                "name": "Đường kính khoan thép",
-                "value": "10 mm"
-            },
-            {
-                "name": "Đường kính khoan bê tông",
-                "value": "10mm"
-            },
-            {
-                "name": "Cỡ vít tối đa",
-                "value": "10mm"
-            },
-            {
-                "name": "Điện áp pin",
-                "value": "18 V"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1.3kg"
-            },
-            {
-                "name": "Đầu cặp",
-                "value": "13mm"
-            },
-            {
-                "name": "Hãng sx",
-                "value": "Bosch Đức"
-            },
-            {
-                "name": "Sản xuất tại",
-                "value": "Malaysia"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Bộ máy khoan vặn vít Makita CLX224S (TD110D+DF333D) kèm pin sạc",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "CLX224S",
-        "slug": "Bo-may-khoan-van-vit-Makita-CLX224S-(TD110D+DF333D)-kem-pin-sac",
-        "price": 3465000,
-        "brand": "Makita",
-        "images": [
-            {
-                "caption": "Bộ máy khoan vặn vít Makita CLX224S (TD110D+DF333D) kèm pin sạc",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-clx224s-1608689807.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan đa năng kèm phụ kiện hút bụi Makita HR2651 (26MM)",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "HR2651",
-        "slug": "May-khoan-dja-nang-kem-phu-kien-hut-bui-Makita-HR2651-(26MM)",
-        "price": 4667000,
-        "brand": "Makita",
-        "images": [
-            {
-                "caption": "Máy khoan đa năng kèm phụ kiện hút bụi Makita HR2651 (26MM)",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-da-nang-kem-phu-kien-hut-bui-makita-hr2651-26mm-1-1609145120.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Công suất",
-                "value": "800W"
-            },
-            {
-                "name": "Lực đập",
-                "value": "2.9J"
-            },
-            {
-                "name": "Tốc độ đập",
-                "value": "0-4.600 lần/phút"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0-1.200 vòng/phút"
-            },
-            {
-                "name": "Đường kính khoan bê tông",
-                "value": "Ø26 mm"
-            },
-            {
-                "name": "Đường kính khoan thép",
-                "value": "Ø13 mm"
-            },
-            {
-                "name": "Đường kính khoan gỗ",
-                "value": "Ø32 mm"
-            },
-            {
-                "name": "Đầu cặp",
-                "value": "SDS Plus"
-            },
-            {
-                "name": "Dây dẫn điện",
-                "value": "2.5 m"
-            },
-            {
-                "name": "Kích thước",
-                "value": "604x89x228mm"
-            },
-            {
-                "name": "Trọng lượng tịnh",
-                "value": "3.1 - 4.2 Kg"
-            },
-            {
-                "name": "Phụ kiện theo máy",
-                "value": "Thùng đựng bằng nhựa, chưa có mũi khoan"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
         "name": "Máy khoan động lực pin Bosch GSB 120-LI GEN II",
         "shortDescription": "",
         "description": "mo ta",
         "sku": "GSB 120-LI GEN II",
-        "slug": "May-khoan-djong-luc-pin-Bosch-GSB-120-LI-GEN-II",
+        "slug": "may-khoan-djong-luc-pin-bosch-gsb-120-li-gen-ii",
+        "guarantee": "12 Tháng",
         "price": 2410000,
         "brand": "Bosch",
         "images": [
@@ -261,137 +23,60 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Mô-men xoắn, tối đa (cứng/mềm)",
-                "value": "28 / 11 Nm"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "1300 vòng/phút"
-            },
-            {
-                "name": "Tỷ lệ va đập tối đa",
-                "value": "22000 lần/phút"
-            },
-            {
-                "name": "Khả năng của đầu cặp, tối đa/tối thiểu",
-                "value": "0,3 – 10 mm"
-            },
-            {
-                "name": "Điện áp pin",
-                "value": "12 V"
-            },
-            {
-                "name": "Kích thước",
-                "value": "188mm x 46mm x 195mm (Dài x rộng x cao)"
-            },
-            {
-                "name": "Kiểu pin",
-                "value": "Ion lithium"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên gỗ",
-                "value": "19 mm"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên thép",
-                "value": "6 mm"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên khối xây nề",
-                "value": "8 mm"
-            },
-            {
-                "name": "Đường kính vít tối đa",
-                "value": "7 mm"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1,1 kg"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "HP001GM201",
-        "slug": "May-khoan-bua-va-van-vit-dung-pin-Makita-HP001GM201-(BL)-(40V-MAX)",
-        "price": 14399000,
-        "brand": "Makita",
-        "images": [
-            {
-                "caption": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-bl-40v-max-1608953770.jpg"
-            },
-            {
-                "caption": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-bl-40v-max-4-1629169873.jpg"
-            },
-            {
-                "caption": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-bl-40v-max-1629169895.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Điện thế pin",
-                "value": "40V max-4.0Ah"
-            },
-            {
-                "name": "Khả năng khoan thép",
-                "value": "20mm"
-            },
-            {
-                "name": "Khả năng khoan gỗ",
-                "value": "76mm"
-            },
-            {
-                "name": "Khả năng khoan tường gạch",
-                "value": "20mm"
-            },
-            {
-                "name": "Đầu cặp",
-                "value": "1.5 - 13mm"
-            },
-            {
-                "name": "Tốc độ không tải thấp / cao",
-                "value": "0 - 650 / 0 - 2.600v/p"
-            },
-            {
-                "name": "Lực đập không tải thấp / cao",
-                "value": "0 - 9.750 / 0 - 39.000l/p"
-            },
-            {
-                "name": "Lực siết tối đa mềm",
-                "value": "68Nm"
-            },
-            {
-                "name": "Lực siết tối đa cứng",
-                "value": "140Nm"
-            },
-            {
-                "name": "Lực siết khóa tối đa",
-                "value": "125Nm"
-            },
-            {
-                "name": "Kích thước với pin BL4025",
-                "value": "182x86x275mm"
-            },
-            {
-                "name": "Kích thước với pin BL4040",
-                "value": "182x86x282mm"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "2.7 - 3.0 Kg"
-            },
-            {
-                "name": "Sản xuất tại",
-                "value": "Trung Quốc"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Mô-men xoắn, tối đa (cứng/mềm)",
+                        "value": "28 / 11 Nm"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "1300 vòng/phút"
+                    },
+                    {
+                        "name": "Tỷ lệ va đập tối đa",
+                        "value": "22000 lần/phút"
+                    },
+                    {
+                        "name": "Khả năng của đầu cặp, tối đa/tối thiểu",
+                        "value": "0,3 – 10 mm"
+                    },
+                    {
+                        "name": "Điện áp pin",
+                        "value": "12 V"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "188mm x 46mm x 195mm (Dài x rộng x cao)"
+                    },
+                    {
+                        "name": "Kiểu pin",
+                        "value": "Ion lithium"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên gỗ",
+                        "value": "19 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên thép",
+                        "value": "6 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên khối xây nề",
+                        "value": "8 mm"
+                    },
+                    {
+                        "name": "Đường kính vít tối đa",
+                        "value": "7 mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1,1 kg"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
@@ -401,7 +86,8 @@
         "shortDescription": "",
         "description": "mo ta",
         "sku": "MT80A",
-        "slug": "May-khoan-djong-luc-Maktec-MT80A-500W",
+        "slug": "may-khoan-djong-luc-maktec-mt80a-500w",
+        "guarantee": "6 tháng",
         "price": 0,
         "brand": "Maktec",
         "images": [
@@ -419,168 +105,44 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Công xuất",
-                "value": "500W"
-            },
-            {
-                "name": "Khả năng khoan bê tông",
-                "value": "10mm"
-            },
-            {
-                "name": "Khả năng khoan gỗ",
-                "value": "20mm"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "2900 vòng/phút"
-            },
-            {
-                "name": "Tốc độ va đập",
-                "value": "43500 lần/phút"
-            },
-            {
-                "name": "Dây dẫn điện",
-                "value": "2m"
-            },
-            {
-                "name": "Kích thước",
-                "value": "254x70x196mm"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1.6kg"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan búa Makita M8100KX2B 13mm - 710w",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "M8100KX2B",
-        "slug": "May-khoan-bua-Makita-M8100KX2B-13mm-710w",
-        "price": 1294000,
-        "brand": "Makita",
-        "images": [
-            {
-                "caption": "Máy khoan búa Makita M8100KX2B 13mm - 710w",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-makita-m8100kx2b-13mm-710w-1-1616409230.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Công suất",
-                "value": "710 W"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 - 3.200 vòng/phút"
-            },
-            {
-                "name": "Dây dẫn điện",
-                "value": "2.0m"
-            },
-            {
-                "name": "Khoan tường",
-                "value": "Ø16mm"
-            },
-            {
-                "name": "Khoan thép",
-                "value": "Ø13mm"
-            },
-            {
-                "name": "Khoan gỗ",
-                "value": "Ø30mm"
-            },
-            {
-                "name": "Kích thước đầu cặp",
-                "value": "1.5 – 13mm"
-            },
-            {
-                "name": "Kích thước",
-                "value": "29,6cm x 7,7cm x 20,2cm"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "2.1Kg"
-            },
-            {
-                "name": "Phụ kiện",
-                "value": "26 phụ kiện"
-            },
-            {
-                "name": "Thương hiệu",
-                "value": "Makita"
-            },
-            {
-                "name": "Sản xuất tại",
-                "value": "Thái Lan"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan vặn vít dùng pin Makita DF488DWE",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "DF488DWE",
-        "slug": "May-khoan-van-vit-dung-pin-Makita-DF488DWE",
-        "price": 2557000,
-        "brand": "Makita",
-        "images": [
-            {
-                "caption": "Máy khoan vặn vít dùng pin Makita DF488DWE ",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-18v-makita-df488dwe-1639706758.jpeg"
-            },
-            {
-                "caption": "Máy khoan vặn vít dùng pin Makita DF488DWE ",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-18v-makita-df488dwe-1-1639707151.jpg"
-            },
-            {
-                "caption": "Máy khoan vặn vít dùng pin Makita DF488DWE ",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-18v-makita-df488dwe-3-1639707174.jpg"
-            },
-            {
-                "caption": "Máy khoan vặn vít dùng pin Makita DF488DWE ",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-18v-makita-df488dwe-8-1639707518.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Điện thế pin",
-                "value": "18V x 1.5Ah"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "Cao 0 - 1400 / Thấp"
-            },
-            {
-                "name": "Lực siết khóa tối đa",
-                "value": "38 N.m"
-            },
-            {
-                "name": "Đường kính khoan gỗ",
-                "value": "36mm"
-            },
-            {
-                "name": "Đường kính khoan thép",
-                "value": "13mm"
-            },
-            {
-                "name": "Kích thước (L X W X H)",
-                "value": "221 x 83 x 240 mm"
-            },
-            {
-                "name": "Độ ồn",
-                "value": "70dB"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1.7kg"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công xuất",
+                        "value": "500W"
+                    },
+                    {
+                        "name": "Khả năng khoan bê tông",
+                        "value": "10mm"
+                    },
+                    {
+                        "name": "Khả năng khoan gỗ",
+                        "value": "20mm"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "2900 vòng/phút"
+                    },
+                    {
+                        "name": "Tốc độ va đập",
+                        "value": "43500 lần/phút"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2m"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "254x70x196mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.6kg"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
@@ -590,7 +152,8 @@
         "shortDescription": "",
         "description": "mo ta",
         "sku": "M8103B",
-        "slug": "May-khoan-djong-luc-Makita-M8103B-430W",
+        "slug": "may-khoan-djong-luc-makita-m8103b-430w",
+        "guarantee": "12 Tháng",
         "price": 1078000,
         "brand": "Makita",
         "images": [
@@ -612,105 +175,196 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Công suất",
-                "value": "430 W"
-            },
-            {
-                "name": "Đường kính khoan bê tông",
-                "value": "13 mm"
-            },
-            {
-                "name": "Đường kính khoan thép",
-                "value": "13 mm"
-            },
-            {
-                "name": "Đường kính khoan gỗ",
-                "value": "18 mm"
-            },
-            {
-                "name": "Đường kính đầu kẹp",
-                "value": "1.5 - 13 mm"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 - 3.000 vòng/phút"
-            },
-            {
-                "name": "Tốc độ đập",
-                "value": "0 - 33.000 lần/phút"
-            },
-            {
-                "name": "Kích thước",
-                "value": "255 x 72 x 193 mm"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1.8 kg"
-            },
-            {
-                "name": "Dây dẫn điện",
-                "value": "2.0 m"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "430 W"
+                    },
+                    {
+                        "name": "Đường kính khoan bê tông",
+                        "value": "13 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "13 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "18 mm"
+                    },
+                    {
+                        "name": "Đường kính đầu kẹp",
+                        "value": "1.5 - 13 mm"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 - 3.000 vòng/phút"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0 - 33.000 lần/phút"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "255 x 72 x 193 mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.8 kg"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2.0 m"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
     },
     {
-        "name": "Máy khoan pin vặn vít Bosch GSR 18V-150C BITURBO (Solo)",
+        "name": "Máy khoan Makita M8101B 13mm - 710W",
         "shortDescription": "",
         "description": "mo ta",
-        "sku": "GSR 18V-150 C SOLO",
-        "slug": "May-khoan-pin-van-vit-Bosch-GSR-18V-150C-BITURBO-(Solo)",
-        "price": 6120000,
-        "brand": "Bosch",
+        "sku": "M8101B",
+        "slug": "may-khoan-makita-m8101b-13mm-710w",
+        "guarantee": "12 Tháng",
+        "price": 1463000,
+        "brand": "Makita",
         "images": [
             {
-                "caption": "Máy khoan pin vặn vít Bosch GSR 18V-150C BITURBO (Solo)",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-pin-van-vit-bosch-gsr-18v-150-c-solo-2-1648862656.jpg"
+                "caption": "Máy khoan Makita M8101B 13mm - 710W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-makita-m8101b-13mm-710w-1-min-1606712291.jpg"
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Điện áp pin",
-                "value": "18 V"
-            },
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "710 W"
+                    },
+                    {
+                        "name": "Công suất mâm cặp",
+                        "value": "16 mm"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 3.200 v/p"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2.0m"
+                    },
+                    {
+                        "name": "Khoan bê tông",
+                        "value": "Ø16mm"
+                    },
+                    {
+                        "name": "Khoan thép",
+                        "value": "Ø13mm"
+                    },
+                    {
+                        "name": "Khoan gỗ",
+                        "value": "Ø30mm"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "296 x 77 x 202mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "2.1Kg"
+                    },
+                    {
+                        "name": "Thương hiệu",
+                        "value": "Makita"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Trung Quốc"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan búa Makita M8100KX2B 13mm - 710w",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "M8100KX2B",
+        "slug": "may-khoan-bua-makita-m8100kx2b-13mm-710w",
+        "guarantee": "12 Tháng",
+        "price": 1294000,
+        "brand": "Makita",
+        "images": [
             {
-                "name": "Tốc độ không tải",
-                "value": "0 – 550 / 0 – 2.200 vòng/phút"
-            },
+                "caption": "Máy khoan búa Makita M8100KX2B 13mm - 710w",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-makita-m8100kx2b-13mm-710w-1-1616409230.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Mô-men xoắn (mềm/cứng/tối đa)",
-                "value": "84/100/150 Nm"
-            },
-            {
-                "name": "Kiểu pin",
-                "value": "Ion lithium"
-            },
-            {
-                "name": "Kích thước đầu cặp",
-                "value": "1,5 / 13 mm"
-            },
-            {
-                "name": "Mô-men xoắn",
-                "value": "25+1"
-            },
-            {
-                "name": "Đường kính vít tối đa",
-                "value": "13 mm"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên gỗ",
-                "value": "150 mm"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên thép",
-                "value": "16 mm"
-            },
-            {
-                "name": "Trọng lượng không bao gồm pin",
-                "value": "2,1 kg"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "710 W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 - 3.200 vòng/phút"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2.0m"
+                    },
+                    {
+                        "name": "Khoan tường",
+                        "value": "Ø16mm"
+                    },
+                    {
+                        "name": "Khoan thép",
+                        "value": "Ø13mm"
+                    },
+                    {
+                        "name": "Khoan gỗ",
+                        "value": "Ø30mm"
+                    },
+                    {
+                        "name": "Kích thước đầu cặp",
+                        "value": "1.5 – 13mm"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "29,6cm x 7,7cm x 20,2cm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "2.1Kg"
+                    },
+                    {
+                        "name": "Phụ kiện",
+                        "value": "26 phụ kiện"
+                    },
+                    {
+                        "name": "Thương hiệu",
+                        "value": "Makita"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Thái Lan"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
@@ -720,7 +374,8 @@
         "shortDescription": "",
         "description": "mo ta",
         "sku": "GBH 2-26 DRE",
-        "slug": "May-khoan-be-tong-Bosch-GBH-2-26-DRE",
+        "slug": "may-khoan-be-tong-bosch-gbh-2-26-dre",
+        "guarantee": "12 tháng",
         "price": 3490000,
         "brand": "Bosch",
         "images": [
@@ -742,54 +397,952 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Công suất",
-                "value": "800W"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "800W"
+                    },
+                    {
+                        "name": "Năng lượng va đập",
+                        "value": "3 J"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0 – 4000 vòng/phút"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 900 vòng/phút"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "2.9 kg"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "407mm x 83mm x 210mm (Dài x rộng x cao)"
+                    },
+                    {
+                        "name": "Đầu kẹp mũi khoan",
+                        "value": "SDS-plus"
+                    },
+                    {
+                        "name": "Đường kính khoan bê tông",
+                        "value": "4 – 26 mm"
+                    },
+                    {
+                        "name": "Làm việc tối ưu trên bê tông, các mũi khoan búa",
+                        "value": "8 – 16 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan gạch",
+                        "value": "26 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "13 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "30 mm"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan đa năng Makita HR2470X5 (24MM)",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "HR2470X5",
+        "slug": "may-khoan-dja-nang-makita-hr2470x5-(24mm)",
+        "guarantee": "12 Tháng",
+        "price": 3281000,
+        "brand": "Makita",
+        "images": [
+            {
+                "caption": "Máy khoan đa năng Makita HR2470X5 (24MM)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-da-nang-makita-hr2470x5-24mm-1609125621.png"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "780W"
+                    },
+                    {
+                        "name": "Đầu cặp",
+                        "value": "SDS Plus"
+                    },
+                    {
+                        "name": "Lực đập",
+                        "value": "2.7J"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0-4.500 l/p"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0-1.100 v/p"
+                    },
+                    {
+                        "name": "Khoan bê tông",
+                        "value": "Ø24 mm"
+                    },
+                    {
+                        "name": "Khoan thép",
+                        "value": "Ø13 mm"
+                    },
+                    {
+                        "name": "Khoan gỗ",
+                        "value": "Ø32 mm"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2.5 m"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "370x84x214mm"
+                    },
+                    {
+                        "name": "Trọng lượng tịnh",
+                        "value": "2.9 Kg"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan động lực Maktec MT80B 500W",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "MT80B",
+        "slug": "may-khoan-djong-luc-maktec-mt80b-500w",
+        "guarantee": "6 tháng",
+        "price": 0,
+        "brand": "Maktec",
+        "images": [
+            {
+                "caption": "Máy khoan động lực Maktec MT80B 500W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-maktec-mt80b-1602218606.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công xuất",
+                        "value": "500W"
+                    },
+                    {
+                        "name": "Khả năng khoan bê tông",
+                        "value": "16 mm"
+                    },
+                    {
+                        "name": "Khả năng khoan thép",
+                        "value": "13 mm"
+                    },
+                    {
+                        "name": "Khả năng khoan gỗ",
+                        "value": "20 mm"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0 - 43,500 lần/phút"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 - 2,900 vòng/phút"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "262 x 70 x1 96 mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.7 kg"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2.0m"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "GSB 180-LI",
+        "slug": "may-khoan-van-vit-dung-pin-bosch-gsb-180-li-kem-phu-kien",
+        "guarantee": "12 Tháng",
+        "price": 3240000,
+        "brand": "Bosch",
+        "images": [
+            {
+                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-500.jpg"
             },
             {
-                "name": "Năng lượng va đập",
-                "value": "3 J"
+                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh1.jpg"
             },
             {
-                "name": "Tốc độ đập",
-                "value": "0 – 4000 vòng/phút"
+                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh2.jpg"
             },
             {
-                "name": "Tốc độ không tải",
-                "value": "0 – 900 vòng/phút"
+                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh3.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Lực xoắn tối đa (cứng / mềm)",
+                        "value": "21/54 Nm"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 450/0 – 1700 vòng / phút"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "27.000 lần/phút"
+                    },
+                    {
+                        "name": "Loại pin Lithium-ion",
+                        "value": "2.0 Ah"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "35mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "10 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan bê tông",
+                        "value": "10mm"
+                    },
+                    {
+                        "name": "Cỡ vít tối đa",
+                        "value": "10mm"
+                    },
+                    {
+                        "name": "Điện áp pin",
+                        "value": "18 V"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.3kg"
+                    },
+                    {
+                        "name": "Đầu cặp",
+                        "value": "13mm"
+                    },
+                    {
+                        "name": "Hãng sx",
+                        "value": "Bosch Đức"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Malaysia"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan pin vặn vít Bosch GSR 18V-150C BITURBO (Solo)",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "GSR 18V-150 C SOLO",
+        "slug": "may-khoan-pin-van-vit-bosch-gsr-18v-150c-biturbo-(solo)",
+        "guarantee": "12 tháng",
+        "price": 6120000,
+        "brand": "Bosch",
+        "images": [
+            {
+                "caption": "Máy khoan pin vặn vít Bosch GSR 18V-150C BITURBO (Solo)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-pin-van-vit-bosch-gsr-18v-150-c-solo-2-1648862656.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Điện áp pin",
+                        "value": "18 V"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 550 / 0 – 2.200 vòng/phút"
+                    },
+                    {
+                        "name": "Mô-men xoắn (mềm/cứng/tối đa)",
+                        "value": "84/100/150 Nm"
+                    },
+                    {
+                        "name": "Kiểu pin",
+                        "value": "Ion lithium"
+                    },
+                    {
+                        "name": "Kích thước đầu cặp",
+                        "value": "1,5 / 13 mm"
+                    },
+                    {
+                        "name": "Mô-men xoắn",
+                        "value": "25+1"
+                    },
+                    {
+                        "name": "Đường kính vít tối đa",
+                        "value": "13 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên gỗ",
+                        "value": "150 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên thép",
+                        "value": "16 mm"
+                    },
+                    {
+                        "name": "Trọng lượng không bao gồm pin",
+                        "value": "2,1 kg"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan đa năng kèm phụ kiện hút bụi Makita HR2651 (26MM)",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "HR2651",
+        "slug": "may-khoan-dja-nang-kem-phu-kien-hut-bui-makita-hr2651-(26mm)",
+        "guarantee": "12 Tháng",
+        "price": 4667000,
+        "brand": "Makita",
+        "images": [
+            {
+                "caption": "Máy khoan đa năng kèm phụ kiện hút bụi Makita HR2651 (26MM)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-da-nang-kem-phu-kien-hut-bui-makita-hr2651-26mm-1-1609145120.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "800W"
+                    },
+                    {
+                        "name": "Lực đập",
+                        "value": "2.9J"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0-4.600 lần/phút"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0-1.200 vòng/phút"
+                    },
+                    {
+                        "name": "Đường kính khoan bê tông",
+                        "value": "Ø26 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "Ø13 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "Ø32 mm"
+                    },
+                    {
+                        "name": "Đầu cặp",
+                        "value": "SDS Plus"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2.5 m"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "604x89x228mm"
+                    },
+                    {
+                        "name": "Trọng lượng tịnh",
+                        "value": "3.1 - 4.2 Kg"
+                    },
+                    {
+                        "name": "Phụ kiện theo máy",
+                        "value": "Thùng đựng bằng nhựa, chưa có mũi khoan"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan động lực Makita M8104B 430W",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "M8104B",
+        "slug": "may-khoan-djong-luc-makita-m8104b-430w",
+        "guarantee": "12 Tháng",
+        "price": 1171000,
+        "brand": "Makita",
+        "images": [
+            {
+                "caption": "Máy khoan động lực Makita M8104B 430W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m8104b-1602148927.jpg"
             },
             {
-                "name": "Trọng lượng",
-                "value": "2.9 kg"
+                "caption": "Máy khoan động lực Makita M8104B 430W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m8104b-1-1602146293.jpg"
             },
             {
-                "name": "Kích thước",
-                "value": "407mm x 83mm x 210mm (Dài x rộng x cao)"
+                "caption": "Máy khoan động lực Makita M8104B 430W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m8104b-2-1602146315.jpg"
             },
             {
-                "name": "Đầu kẹp mũi khoan",
-                "value": "SDS-plus"
+                "caption": "Máy khoan động lực Makita M8104B 430W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m8104b-3-1602146326.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "430W"
+                    },
+                    {
+                        "name": "Khả năng khoan thép",
+                        "value": "13mm"
+                    },
+                    {
+                        "name": "Khả năng khoan tường",
+                        "value": "13mm"
+                    },
+                    {
+                        "name": "Khả năng khoan gỗ",
+                        "value": "18mm"
+                    },
+                    {
+                        "name": "Kích thước đầu kẹp",
+                        "value": "1,5 – 13 mm"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0 – 33.000 lần/phút"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 3.000 vòng/ phút"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "2kg"
+                    },
+                    {
+                        "name": "Phụ kiện",
+                        "value": "1 tay cầm phụ, 1 thước căn độ sâu"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan Makita M6002B 450W",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "M6002B",
+        "slug": "may-khoan-makita-m6002b-450w",
+        "guarantee": "12 Tháng",
+        "price": 894000,
+        "brand": "Makita",
+        "images": [
+            {
+                "caption": "Máy khoan Makita M6002B 450W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m6002b-1602129780.jpg"
             },
             {
-                "name": "Đường kính khoan bê tông",
-                "value": "4 – 26 mm"
+                "caption": "Máy khoan Makita M6002B 450W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m6002b-1-1602129807.jpg"
             },
             {
-                "name": "Làm việc tối ưu trên bê tông, các mũi khoan búa",
-                "value": "8 – 16 mm"
+                "caption": "Máy khoan Makita M6002B 450W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m6002b-2-1602129820.jpg"
             },
             {
-                "name": "Đường kính khoan gạch",
-                "value": "26 mm"
+                "caption": "Máy khoan Makita M6002B 450W",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m6002b-3-1602129832.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "450W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "3000 vòng/phút"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "16mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "10mm"
+                    },
+                    {
+                        "name": "Loại đầu kẹp",
+                        "value": "Autolock"
+                    },
+                    {
+                        "name": "Kích thước đầu kẹp",
+                        "value": "10mm"
+                    },
+                    {
+                        "name": "Dây điện",
+                        "value": "2m"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "229mm x 64mm x 175mm"
+                    },
+                    {
+                        "name": "Trọng lượng sản phẩm",
+                        "value": "1,3kg"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Bộ máy khoan búa Makita M8103KX2B SET 26 phụ kiện",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "M8103KX2B",
+        "slug": "bo-may-khoan-bua-makita-m8103kx2b-set-26-phu-kien",
+        "guarantee": "12 Tháng",
+        "price": 1078000,
+        "brand": "Makita",
+        "images": [
+            {
+                "caption": "Bộ máy khoan búa Makita M8103KX2B SET 26 phụ kiện",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-makita-m8103kx2b-13mm-430w-6-1607074300.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "430 W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 - 3.000 vòng/phút"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2.0m"
+                    },
+                    {
+                        "name": "Khoan bê tông",
+                        "value": "13mm"
+                    },
+                    {
+                        "name": "Khoan thép",
+                        "value": "Ø13mm"
+                    },
+                    {
+                        "name": "Khoan gỗ",
+                        "value": "Ø18mm"
+                    },
+                    {
+                        "name": "Kích thước đầu cặp",
+                        "value": "1.5 – 13mm"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "29,6cm x 7,7cm x 20,2cm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.8Kg"
+                    },
+                    {
+                        "name": "Phụ kiện",
+                        "value": "26 phụ kiện"
+                    },
+                    {
+                        "name": "Thương hiệu",
+                        "value": "Makita"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Thái Lan"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan bê tông Makita M8701B (26MM)",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "M8701B",
+        "slug": "may-khoan-be-tong-makita-m8701b-(26mm)",
+        "guarantee": "12 Tháng",
+        "price": 2387000,
+        "brand": "Makita",
+        "images": [
+            {
+                "caption": "Máy khoan bê tông Makita M8701B (26MM)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-dong-luc-makita-m8701b-26mm-1-1609129243.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "800 W"
+                    },
+                    {
+                        "name": "Đầu cặp",
+                        "value": "SDS Plus"
+                    },
+                    {
+                        "name": "Lực đập",
+                        "value": "2.3J"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0-4.500 l/p"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0-1.200 v/p"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "4.0 m"
+                    },
+                    {
+                        "name": "Khoan bê tông",
+                        "value": "Ø26 mm"
+                    },
+                    {
+                        "name": "Khoan thép",
+                        "value": "Ø13 mm"
+                    },
+                    {
+                        "name": "Khoan gỗ",
+                        "value": "Ø32 mm"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "362x71x194mm"
+                    },
+                    {
+                        "name": "Trọng lượng tịnh",
+                        "value": "2.8 Kg"
+                    },
+                    {
+                        "name": "Sản xuất",
+                        "value": "Trung Quốc"
+                    },
+                    {
+                        "name": "Phụ kiện theo máy",
+                        "value": "Tay cầm phụ, thước canh độ sâu, hộp nhựa (Không kèm mũi khoan)"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "GSB 16 RE",
+        "slug": "may-khoan-djong-luc-bosch-gsb-16-re-vali-nhua",
+        "guarantee": "12 tháng",
+        "price": 1650000,
+        "brand": "Bosch",
+        "images": [
+            {
+                "caption": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-khoan-dong-luc-bosch-gsb-16-re-1.jpg"
             },
             {
-                "name": "Đường kính khoan thép",
-                "value": "13 mm"
+                "caption": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-khoan-dong-luc-bosch-gsb-16-re-2.jpg"
             },
             {
-                "name": "Đường kính khoan gỗ",
-                "value": "30 mm"
+                "caption": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-khoan-dong-luc-bosch-gsb-16-re-3.jpg"
+            },
+            {
+                "caption": "Máy khoan động lực Bosch GSB 16 RE Vali nhựa",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-khoan-dong-luc-bosch-gsb-16-re-4.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Đầu vào công suất định mức",
+                        "value": "750W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 3250 vòng/phút"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.6 kg"
+                    },
+                    {
+                        "name": "Ren nối trục chính máy khoan",
+                        "value": "1/2″-20 UNF"
+                    },
+                    {
+                        "name": "Khả năng của đầu cặp",
+                        "value": "1,5 – 13 mm"
+                    },
+                    {
+                        "name": "Tỷ lệ va đập ở tốc độ không tải",
+                        "value": "0 – 48000 vòng/phút"
+                    },
+                    {
+                        "name": "Đường kính khoan trên bê tông",
+                        "value": "16 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên gỗ",
+                        "value": "25 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên thép",
+                        "value": "12 mm"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Malaysia"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "HP001GM201",
+        "slug": "may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-(bl)-(40v-max)",
+        "guarantee": "12 Tháng",
+        "price": 14399000,
+        "brand": "Makita",
+        "images": [
+            {
+                "caption": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-bl-40v-max-1608953770.jpg"
+            },
+            {
+                "caption": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-bl-40v-max-4-1629169873.jpg"
+            },
+            {
+                "caption": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-bl-40v-max-1629169895.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Điện thế pin",
+                        "value": "40V max-4.0Ah"
+                    },
+                    {
+                        "name": "Khả năng khoan thép",
+                        "value": "20mm"
+                    },
+                    {
+                        "name": "Khả năng khoan gỗ",
+                        "value": "76mm"
+                    },
+                    {
+                        "name": "Khả năng khoan tường gạch",
+                        "value": "20mm"
+                    },
+                    {
+                        "name": "Đầu cặp",
+                        "value": "1.5 - 13mm"
+                    },
+                    {
+                        "name": "Tốc độ không tải thấp / cao",
+                        "value": "0 - 650 / 0 - 2.600v/p"
+                    },
+                    {
+                        "name": "Lực đập không tải thấp / cao",
+                        "value": "0 - 9.750 / 0 - 39.000l/p"
+                    },
+                    {
+                        "name": "Lực siết tối đa mềm",
+                        "value": "68Nm"
+                    },
+                    {
+                        "name": "Lực siết tối đa cứng",
+                        "value": "140Nm"
+                    },
+                    {
+                        "name": "Lực siết khóa tối đa",
+                        "value": "125Nm"
+                    },
+                    {
+                        "name": "Kích thước với pin BL4025",
+                        "value": "182x86x275mm"
+                    },
+                    {
+                        "name": "Kích thước với pin BL4040",
+                        "value": "182x86x282mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "2.7 - 3.0 Kg"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Trung Quốc"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan búa Total TH308268",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "",
+        "slug": "may-khoan-bua-total-th308268",
+        "guarantee": "m: TH308268",
+        "price": 1110000,
+        "brand": "",
+        "images": [
+            {
+                "caption": "Máy khoan búa Total TH308268",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-TH308266_1.jpg"
+            },
+            {
+                "caption": "Máy khoan búa Total TH308268",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-total-th308266-500-1599726533.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "800W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0-1100/phút"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0 - 4000 lần/phút"
+                    },
+                    {
+                        "name": "Lực đập",
+                        "value": "2.5J"
+                    },
+                    {
+                        "name": "Đường kính khoan bê tông",
+                        "value": "26 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan sắt",
+                        "value": "13 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "30 mm"
+                    },
+                    {
+                        "name": "Phụ kiện",
+                        "value": "kèm theo 3 mũi khoan bê tông, 2 mũi đục"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
@@ -799,7 +1352,8 @@
         "shortDescription": "",
         "description": "mo ta",
         "sku": "GSB 550 Set 100",
-        "slug": "Bo-may-khoan-Bosch-GSB-550-Set-100-mon",
+        "slug": "bo-may-khoan-bosch-gsb-550-set-100-mon",
+        "guarantee": "12 Tháng",
         "price": 1480000,
         "brand": "Bosch",
         "images": [
@@ -817,176 +1371,56 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Công suất",
-                "value": "550W"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 – 2700 vòng/phút"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1.8 kg"
-            },
-            {
-                "name": "Ren nối trục chính máy khoan",
-                "value": "43"
-            },
-            {
-                "name": "Kích thước đầu kẹp",
-                "value": "1,5 – 13 mm"
-            },
-            {
-                "name": "Kích thước",
-                "value": "262mm x 253mm (Dài x rộng)"
-            },
-            {
-                "name": "Tốc độ va đập",
-                "value": "0 – 41600 lần/phút"
-            },
-            {
-                "name": "Đường kính khoan trên tường",
-                "value": "13 mm"
-            },
-            {
-                "name": "Đường kính khoan trên gỗ",
-                "value": "25 mm"
-            },
-            {
-                "name": "Đường kính khoan trên thép",
-                "value": "10 mm"
-            },
-            {
-                "name": "Đường kính khoan trên khối xây nề",
-                "value": "13 mm"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan Makita M8101B 13mm - 710W",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "M8101B",
-        "slug": "May-khoan-Makita-M8101B-13mm-710W",
-        "price": 1463000,
-        "brand": "Makita",
-        "images": [
-            {
-                "caption": "Máy khoan Makita M8101B 13mm - 710W",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-makita-m8101b-13mm-710w-1-min-1606712291.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Công suất",
-                "value": "710 W"
-            },
-            {
-                "name": "Công suất mâm cặp",
-                "value": "16 mm"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 – 3.200 v/p"
-            },
-            {
-                "name": "Dây dẫn điện",
-                "value": "2.0m"
-            },
-            {
-                "name": "Khoan bê tông",
-                "value": "Ø16mm"
-            },
-            {
-                "name": "Khoan thép",
-                "value": "Ø13mm"
-            },
-            {
-                "name": "Khoan gỗ",
-                "value": "Ø30mm"
-            },
-            {
-                "name": "Kích thước",
-                "value": "296 x 77 x 202mm"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "2.1Kg"
-            },
-            {
-                "name": "Thương hiệu",
-                "value": "Makita"
-            },
-            {
-                "name": "Sản xuất tại",
-                "value": "Trung Quốc"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan đa năng Makita HR2470X5 (24MM)",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "HR2470X5",
-        "slug": "May-khoan-dja-nang-Makita-HR2470X5-(24MM)",
-        "price": 3281000,
-        "brand": "Makita",
-        "images": [
-            {
-                "caption": "Máy khoan đa năng Makita HR2470X5 (24MM)",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-da-nang-makita-hr2470x5-24mm-1609125621.png"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Công suất",
-                "value": "780W"
-            },
-            {
-                "name": "Đầu cặp",
-                "value": "SDS Plus"
-            },
-            {
-                "name": "Lực đập",
-                "value": "2.7J"
-            },
-            {
-                "name": "Tốc độ đập",
-                "value": "0-4.500 l/p"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0-1.100 v/p"
-            },
-            {
-                "name": "Khoan bê tông",
-                "value": "Ø24 mm"
-            },
-            {
-                "name": "Khoan thép",
-                "value": "Ø13 mm"
-            },
-            {
-                "name": "Khoan gỗ",
-                "value": "Ø32 mm"
-            },
-            {
-                "name": "Dây dẫn điện",
-                "value": "2.5 m"
-            },
-            {
-                "name": "Kích thước",
-                "value": "370x84x214mm"
-            },
-            {
-                "name": "Trọng lượng tịnh",
-                "value": "2.9 Kg"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "550W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 2700 vòng/phút"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.8 kg"
+                    },
+                    {
+                        "name": "Ren nối trục chính máy khoan",
+                        "value": "43"
+                    },
+                    {
+                        "name": "Kích thước đầu kẹp",
+                        "value": "1,5 – 13 mm"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "262mm x 253mm (Dài x rộng)"
+                    },
+                    {
+                        "name": "Tốc độ va đập",
+                        "value": "0 – 41600 lần/phút"
+                    },
+                    {
+                        "name": "Đường kính khoan trên tường",
+                        "value": "13 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên gỗ",
+                        "value": "25 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên thép",
+                        "value": "10 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên khối xây nề",
+                        "value": "13 mm"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
@@ -996,7 +1430,8 @@
         "shortDescription": "",
         "description": "mo ta",
         "sku": "GBH 2-24 DRE",
-        "slug": "May-khoan-bua-Bosch-GBH-2-24-DRE",
+        "slug": "may-khoan-bua-bosch-gbh-2-24-dre",
+        "guarantee": "12 tháng",
         "price": 3010000,
         "brand": "Bosch",
         "images": [
@@ -1022,472 +1457,286 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Công suất",
-                "value": "790 W"
-            },
-            {
-                "name": "Lực đập",
-                "value": "2,7 J"
-            },
-            {
-                "name": "Đầu kẹp",
-                "value": "SDS Plus"
-            },
-            {
-                "name": "Tốc độ đập",
-                "value": "0 – 4200 vòng/phút"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 – 930 vòng/phút"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "2.9 kg"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên bê tông",
-                "value": "24mm"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên thép",
-                "value": "30mm"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên gỗ",
-                "value": "13mm"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "790 W"
+                    },
+                    {
+                        "name": "Lực đập",
+                        "value": "2,7 J"
+                    },
+                    {
+                        "name": "Đầu kẹp",
+                        "value": "SDS Plus"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0 – 4200 vòng/phút"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 930 vòng/phút"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "2.9 kg"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên bê tông",
+                        "value": "24mm"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên thép",
+                        "value": "30mm"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên gỗ",
+                        "value": "13mm"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
     },
     {
-        "name": "Máy khoan động lực pin Bosch GSB 120-LI GEN II",
+        "name": "Máy khoan búa và vặn vít Makita HP0300 (10MM)",
         "shortDescription": "",
         "description": "mo ta",
-        "sku": "GSB 120-LI GEN II",
-        "slug": "May-khoan-djong-luc-pin-Bosch-GSB-120-LI-GEN-II",
-        "price": 2410000,
-        "brand": "Bosch",
-        "images": [
-            {
-                "caption": "Máy khoan động lực pin Bosch GSB 120-LI GEN II",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-GSB-120-li-2019.jpg"
-            },
-            {
-                "caption": "Máy khoan động lực pin Bosch GSB 120-LI GEN II",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bo-khoan-pin-bosch-gsb-120-li.png"
-            },
-            {
-                "caption": "Máy khoan động lực pin Bosch GSB 120-LI GEN II",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-hop-dung-bo-khoan-pin-bosch-gsb-120-li.png"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Mô-men xoắn, tối đa (cứng/mềm)",
-                "value": "28 / 11 Nm"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "1300 vòng/phút"
-            },
-            {
-                "name": "Tỷ lệ va đập tối đa",
-                "value": "22000 lần/phút"
-            },
-            {
-                "name": "Khả năng của đầu cặp, tối đa/tối thiểu",
-                "value": "0,3 – 10 mm"
-            },
-            {
-                "name": "Điện áp pin",
-                "value": "12 V"
-            },
-            {
-                "name": "Kích thước",
-                "value": "188mm x 46mm x 195mm (Dài x rộng x cao)"
-            },
-            {
-                "name": "Kiểu pin",
-                "value": "Ion lithium"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên gỗ",
-                "value": "19 mm"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên thép",
-                "value": "6 mm"
-            },
-            {
-                "name": "Đường kính khoan tối đa trên khối xây nề",
-                "value": "8 mm"
-            },
-            {
-                "name": "Đường kính vít tối đa",
-                "value": "7 mm"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1,1 kg"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan búa Total TH308268",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "",
-        "slug": "May-khoan-bua-Total-TH308268",
-        "price": 1110000,
-        "brand": "",
-        "images": [
-            {
-                "caption": "Máy khoan búa Total TH308268",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-TH308266_1.jpg"
-            },
-            {
-                "caption": "Máy khoan búa Total TH308268",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-total-th308266-500-1599726533.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Công suất",
-                "value": "800W"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0-1100/phút"
-            },
-            {
-                "name": "Tốc độ đập",
-                "value": "0 - 4000 lần/phút"
-            },
-            {
-                "name": "Lực đập",
-                "value": "2.5J"
-            },
-            {
-                "name": "Đường kính khoan bê tông",
-                "value": "26 mm"
-            },
-            {
-                "name": "Đường kính khoan sắt",
-                "value": "13 mm"
-            },
-            {
-                "name": "Đường kính khoan gỗ",
-                "value": "30 mm"
-            },
-            {
-                "name": "Phụ kiện",
-                "value": "kèm theo 3 mũi khoan bê tông, 2 mũi đục"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan bê tông Bosch GBH 2-26 DRE",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "GBH 2-26 DRE",
-        "slug": "May-khoan-be-tong-Bosch-GBH-2-26-DRE",
-        "price": 3490000,
-        "brand": "Bosch",
-        "images": [
-            {
-                "caption": "Máy khoan bê tông Bosch GBH 2-26 DRE",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bosch-gbh-2-26-dre-anh1.jpg"
-            },
-            {
-                "caption": "Máy khoan bê tông Bosch GBH 2-26 DRE",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bosch-gbh-2-26-dre-anh.jpg"
-            },
-            {
-                "caption": "Máy khoan bê tông Bosch GBH 2-26 DRE",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bosch-gbh-2-26-dre-anh2.jpg"
-            },
-            {
-                "caption": "Máy khoan bê tông Bosch GBH 2-26 DRE",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bosch-gbh-2-26-dre-anh3.jpg"
-            }
-        ],
-        "productRelate": null,
-        "metadata": [
-            {
-                "name": "Công suất",
-                "value": "800W"
-            },
-            {
-                "name": "Năng lượng va đập",
-                "value": "3 J"
-            },
-            {
-                "name": "Tốc độ đập",
-                "value": "0 – 4000 vòng/phút"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 – 900 vòng/phút"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "2.9 kg"
-            },
-            {
-                "name": "Kích thước",
-                "value": "407mm x 83mm x 210mm (Dài x rộng x cao)"
-            },
-            {
-                "name": "Đầu kẹp mũi khoan",
-                "value": "SDS-plus"
-            },
-            {
-                "name": "Đường kính khoan bê tông",
-                "value": "4 – 26 mm"
-            },
-            {
-                "name": "Làm việc tối ưu trên bê tông, các mũi khoan búa",
-                "value": "8 – 16 mm"
-            },
-            {
-                "name": "Đường kính khoan gạch",
-                "value": "26 mm"
-            },
-            {
-                "name": "Đường kính khoan thép",
-                "value": "13 mm"
-            },
-            {
-                "name": "Đường kính khoan gỗ",
-                "value": "30 mm"
-            }
-        ],
-        "isAvailInStock": false
-    },
-    {
-        "name": "Máy khoan Makita M6002B 450W",
-        "shortDescription": "",
-        "description": "mo ta",
-        "sku": "M6002B",
-        "slug": "May-khoan-Makita-M6002B-450W",
-        "price": 894000,
+        "sku": "HP0300",
+        "slug": "may-khoan-bua-va-van-vit-makita-hp0300-(10mm)",
+        "guarantee": "12 Tháng",
+        "price": 1194000,
         "brand": "Makita",
         "images": [
             {
-                "caption": "Máy khoan Makita M6002B 450W",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m6002b-1602129780.jpg"
-            },
-            {
-                "caption": "Máy khoan Makita M6002B 450W",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m6002b-1-1602129807.jpg"
-            },
-            {
-                "caption": "Máy khoan Makita M6002B 450W",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m6002b-2-1602129820.jpg"
-            },
-            {
-                "caption": "Máy khoan Makita M6002B 450W",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-makita-m6002b-3-1602129832.jpg"
+                "caption": "Máy khoan búa và vặn vít Makita HP0300 (10MM)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-makita-hp0300-10mm-1-1608955130.jpg"
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Công suất",
-                "value": "450W"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "3000 vòng/phút"
-            },
-            {
-                "name": "Đường kính khoan gỗ",
-                "value": "16mm"
-            },
-            {
-                "name": "Đường kính khoan thép",
-                "value": "10mm"
-            },
-            {
-                "name": "Loại đầu kẹp",
-                "value": "Autolock"
-            },
-            {
-                "name": "Kích thước đầu kẹp",
-                "value": "10mm"
-            },
-            {
-                "name": "Dây điện",
-                "value": "2m"
-            },
-            {
-                "name": "Kích thước",
-                "value": "229mm x 64mm x 175mm"
-            },
-            {
-                "name": "Trọng lượng sản phẩm",
-                "value": "1,3kg"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "320W"
+                    },
+                    {
+                        "name": "Khả năng khoan bê tông",
+                        "value": "Ø8mm"
+                    },
+                    {
+                        "name": "Khả năng khoan sắt",
+                        "value": "Ø10mm"
+                    },
+                    {
+                        "name": "Khả năng khoan gỗ",
+                        "value": "Ø28mm"
+                    },
+                    {
+                        "name": "Tốc độ đập cao",
+                        "value": "0 - 22.500l/p"
+                    },
+                    {
+                        "name": "Tốc độ đập thấp",
+                        "value": "0 - 6.750l/p"
+                    },
+                    {
+                        "name": "Tốc độ không tải cao",
+                        "value": "0 - 1.500v/p"
+                    },
+                    {
+                        "name": "Tốc độ không tải thấp",
+                        "value": "0 - 450v/p"
+                    },
+                    {
+                        "name": "Đầu cặp",
+                        "value": "0.8 - 10mm"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "235x67x206mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.3Kg"
+                    },
+                    {
+                        "name": "Dây dẫn điện dài",
+                        "value": "2.5m"
+                    },
+                    {
+                        "name": "Xuất xứ",
+                        "value": "Trung Quốc"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
     },
     {
-        "name": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+        "name": "Máy khoan cầm tay Maktec MT60 350W-10mm",
         "shortDescription": "",
         "description": "mo ta",
-        "sku": "GSB 180-LI",
-        "slug": "May-khoan-van-vit-dung-Pin-Bosch-GSB-180-LI-kem-phu-kien",
-        "price": 3240000,
-        "brand": "Bosch",
+        "sku": "MT60",
+        "slug": "may-khoan-cam-tay-maktec-mt60-350w-10mm",
+        "guarantee": "6 tháng",
+        "price": 0,
+        "brand": "Maktec",
         "images": [
             {
-                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-500.jpg"
+                "caption": "Máy khoan cầm tay Maktec MT60 350W-10mm",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-maktec-mt60-1602215360.jpg"
             },
             {
-                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh1.jpg"
+                "caption": "Máy khoan cầm tay Maktec MT60 350W-10mm",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-maktec-mt60-anh1-1602215394.jpg"
             },
             {
-                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh2.jpg"
-            },
-            {
-                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh3.jpg"
+                "caption": "Máy khoan cầm tay Maktec MT60 350W-10mm",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-maktec-mt60-anh2-1602215405.jpg"
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Lực xoắn tối đa (cứng / mềm)",
-                "value": "21/54 Nm"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 – 450/0 – 1700 vòng / phút"
-            },
-            {
-                "name": "Tốc độ đập",
-                "value": "27.000 lần/phút"
-            },
-            {
-                "name": "Loại pin Lithium-ion",
-                "value": "2.0 Ah"
-            },
-            {
-                "name": "Đường kính khoan gỗ",
-                "value": "35mm"
-            },
-            {
-                "name": "Đường kính khoan thép",
-                "value": "10 mm"
-            },
-            {
-                "name": "Đường kính khoan bê tông",
-                "value": "10mm"
-            },
-            {
-                "name": "Cỡ vít tối đa",
-                "value": "10mm"
-            },
-            {
-                "name": "Điện áp pin",
-                "value": "18 V"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1.3kg"
-            },
-            {
-                "name": "Đầu cặp",
-                "value": "13mm"
-            },
-            {
-                "name": "Hãng sx",
-                "value": "Bosch Đức"
-            },
-            {
-                "name": "Sản xuất tại",
-                "value": "Malaysia"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "350W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 - 3000 vòng phút"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "20mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "10m"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "230 x 66 x 176mm"
+                    },
+                    {
+                        "name": "Trọng lương",
+                        "value": "1.2kg"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2.0m"
+                    },
+                    {
+                        "name": "Công nghệ",
+                        "value": "Nhật Bản"
+                    },
+                    {
+                        "name": "Xuất xứ",
+                        "value": "Trung Quốc"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
     },
     {
-        "name": "Máy khoan bê tông Makita M8701B (26MM)",
+        "name": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
         "shortDescription": "",
         "description": "mo ta",
-        "sku": "M8701B",
-        "slug": "May-khoan-be-tong-Makita-M8701B-(26MM)",
-        "price": 2387000,
+        "sku": "HP001GM201",
+        "slug": "may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-(bl)-(40v-max)",
+        "guarantee": "12 Tháng",
+        "price": 14399000,
         "brand": "Makita",
         "images": [
             {
-                "caption": "Máy khoan bê tông Makita M8701B (26MM)",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-dong-luc-makita-m8701b-26mm-1-1609129243.jpg"
+                "caption": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-bl-40v-max-1608953770.jpg"
+            },
+            {
+                "caption": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-bl-40v-max-4-1629169873.jpg"
+            },
+            {
+                "caption": "Máy khoan búa và vặn vít dùng pin Makita HP001GM201 (BL) (40V MAX)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-dung-pin-makita-hp001gm201-bl-40v-max-1629169895.jpg"
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Công suất",
-                "value": "800 W"
-            },
-            {
-                "name": "Đầu cặp",
-                "value": "SDS Plus"
-            },
-            {
-                "name": "Lực đập",
-                "value": "2.3J"
-            },
-            {
-                "name": "Tốc độ đập",
-                "value": "0-4.500 l/p"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0-1.200 v/p"
-            },
-            {
-                "name": "Dây dẫn điện",
-                "value": "4.0 m"
-            },
-            {
-                "name": "Khoan bê tông",
-                "value": "Ø26 mm"
-            },
-            {
-                "name": "Khoan thép",
-                "value": "Ø13 mm"
-            },
-            {
-                "name": "Khoan gỗ",
-                "value": "Ø32 mm"
-            },
-            {
-                "name": "Kích thước",
-                "value": "362x71x194mm"
-            },
-            {
-                "name": "Trọng lượng tịnh",
-                "value": "2.8 Kg"
-            },
-            {
-                "name": "Sản xuất",
-                "value": "Trung Quốc"
-            },
-            {
-                "name": "Phụ kiện theo máy",
-                "value": "Tay cầm phụ, thước canh độ sâu, hộp nhựa (Không kèm mũi khoan)"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Điện thế pin",
+                        "value": "40V max-4.0Ah"
+                    },
+                    {
+                        "name": "Khả năng khoan thép",
+                        "value": "20mm"
+                    },
+                    {
+                        "name": "Khả năng khoan gỗ",
+                        "value": "76mm"
+                    },
+                    {
+                        "name": "Khả năng khoan tường gạch",
+                        "value": "20mm"
+                    },
+                    {
+                        "name": "Đầu cặp",
+                        "value": "1.5 - 13mm"
+                    },
+                    {
+                        "name": "Tốc độ không tải thấp / cao",
+                        "value": "0 - 650 / 0 - 2.600v/p"
+                    },
+                    {
+                        "name": "Lực đập không tải thấp / cao",
+                        "value": "0 - 9.750 / 0 - 39.000l/p"
+                    },
+                    {
+                        "name": "Lực siết tối đa mềm",
+                        "value": "68Nm"
+                    },
+                    {
+                        "name": "Lực siết tối đa cứng",
+                        "value": "140Nm"
+                    },
+                    {
+                        "name": "Lực siết khóa tối đa",
+                        "value": "125Nm"
+                    },
+                    {
+                        "name": "Kích thước với pin BL4025",
+                        "value": "182x86x275mm"
+                    },
+                    {
+                        "name": "Kích thước với pin BL4040",
+                        "value": "182x86x282mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "2.7 - 3.0 Kg"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Trung Quốc"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
@@ -1497,7 +1746,8 @@
         "shortDescription": "",
         "description": "mo ta",
         "sku": "DF488DWE",
-        "slug": "May-khoan-van-vit-dung-pin-Makita-DF488DWE",
+        "slug": "may-khoan-van-vit-dung-pin-makita-df488dwe",
+        "guarantee": "12 Tháng",
         "price": 2557000,
         "brand": "Makita",
         "images": [
@@ -1519,38 +1769,122 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Điện thế pin",
-                "value": "18V x 1.5Ah"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Điện thế pin",
+                        "value": "18V x 1.5Ah"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "Cao 0 - 1400 / Thấp"
+                    },
+                    {
+                        "name": "Lực siết khóa tối đa",
+                        "value": "38 N.m"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "36mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "13mm"
+                    },
+                    {
+                        "name": "Kích thước (L X W X H)",
+                        "value": "221 x 83 x 240 mm"
+                    },
+                    {
+                        "name": "Độ ồn",
+                        "value": "70dB"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.7kg"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Bộ máy khoan Bosch GSB 550 Set 100 món",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "GSB 550 Set 100",
+        "slug": "bo-may-khoan-bosch-gsb-550-set-100-mon",
+        "guarantee": "12 Tháng",
+        "price": 1480000,
+        "brand": "Bosch",
+        "images": [
+            {
+                "caption": "Bộ máy khoan Bosch GSB 550 Set 100 món",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bo-may-khoan-Bosch-GSB-550-set-100-mon.jpg"
             },
             {
-                "name": "Tốc độ không tải",
-                "value": "Cao 0 - 1400 / Thấp"
+                "caption": "Bộ máy khoan Bosch GSB 550 Set 100 món",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-gsb-550-set-100-mon-hinh-2-1598604571.jpg"
             },
             {
-                "name": "Lực siết khóa tối đa",
-                "value": "38 N.m"
-            },
+                "caption": "Bộ máy khoan Bosch GSB 550 Set 100 món",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-gsb-550-set-100-mon-2-1598604543.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Đường kính khoan gỗ",
-                "value": "36mm"
-            },
-            {
-                "name": "Đường kính khoan thép",
-                "value": "13mm"
-            },
-            {
-                "name": "Kích thước (L X W X H)",
-                "value": "221 x 83 x 240 mm"
-            },
-            {
-                "name": "Độ ồn",
-                "value": "70dB"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1.7kg"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "550W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 2700 vòng/phút"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.8 kg"
+                    },
+                    {
+                        "name": "Ren nối trục chính máy khoan",
+                        "value": "43"
+                    },
+                    {
+                        "name": "Kích thước đầu kẹp",
+                        "value": "1,5 – 13 mm"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "262mm x 253mm (Dài x rộng)"
+                    },
+                    {
+                        "name": "Tốc độ va đập",
+                        "value": "0 – 41600 lần/phút"
+                    },
+                    {
+                        "name": "Đường kính khoan trên tường",
+                        "value": "13 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên gỗ",
+                        "value": "25 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên thép",
+                        "value": "10 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên khối xây nề",
+                        "value": "13 mm"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
@@ -1560,7 +1894,8 @@
         "shortDescription": "",
         "description": "mo ta",
         "sku": "DDV2-18-3Li-50",
-        "slug": "May-khoan-xoay-duoi-nuoc-50m-Nemo-My",
+        "slug": "may-khoan-xoay-duoi-nuoc-50m-nemo-my",
+        "guarantee": "12 tháng",
         "price": 30000000,
         "brand": "Nemo",
         "images": [
@@ -1582,129 +1917,483 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Model sạc pin",
-                "value": "DSS-220200"
-            },
-            {
-                "name": "Thời gian sạc pin khoảng",
-                "value": "55 phút"
-            },
-            {
-                "name": "Điện áp sạc pin",
-                "value": "đầu ra 21V; đầu vào 100V – 240V"
-            },
-            {
-                "name": "Điện áp pin",
-                "value": "18V Li-ion"
-            },
-            {
-                "name": "Dung lượng pin",
-                "value": "3Ah (tùy chọn thêm 6Ah)"
-            },
-            {
-                "name": "Tốc độ không tải (2 tốc độ)",
-                "value": "0 – 400 / 0 – 1500 vòng/phút"
-            },
-            {
-                "name": "Momen cực đại",
-                "value": "39 Nm (345 in-lbs)"
-            },
-            {
-                "name": "Kích thước đầu cặp",
-                "value": "13mm (½ in)"
-            },
-            {
-                "name": "Trọng lượng (bao gồm pin)",
-                "value": "2.9kg (6.39 lbs)"
-            },
-            {
-                "name": "Độ sâu trong thép",
-                "value": "10mm (3/8 in)"
-            },
-            {
-                "name": "Độ sâu trong gỗ",
-                "value": "25mm (1 in)"
-            },
-            {
-                "name": "Nhiệt độ làm việc",
-                "value": "60°C (140°F) "
-            },
-            {
-                "name": "Có thể nhúng sâu đến",
-                "value": "50m (164 ft)"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Model sạc pin",
+                        "value": "DSS-220200"
+                    },
+                    {
+                        "name": "Thời gian sạc pin khoảng",
+                        "value": "55 phút"
+                    },
+                    {
+                        "name": "Điện áp sạc pin",
+                        "value": "đầu ra 21V; đầu vào 100V – 240V"
+                    },
+                    {
+                        "name": "Điện áp pin",
+                        "value": "18V Li-ion"
+                    },
+                    {
+                        "name": "Dung lượng pin",
+                        "value": "3Ah (tùy chọn thêm 6Ah)"
+                    },
+                    {
+                        "name": "Tốc độ không tải (2 tốc độ)",
+                        "value": "0 – 400 / 0 – 1500 vòng/phút"
+                    },
+                    {
+                        "name": "Momen cực đại",
+                        "value": "39 Nm (345 in-lbs)"
+                    },
+                    {
+                        "name": "Kích thước đầu cặp",
+                        "value": "13mm (½ in)"
+                    },
+                    {
+                        "name": "Trọng lượng (bao gồm pin)",
+                        "value": "2.9kg (6.39 lbs)"
+                    },
+                    {
+                        "name": "Độ sâu trong thép",
+                        "value": "10mm (3/8 in)"
+                    },
+                    {
+                        "name": "Độ sâu trong gỗ",
+                        "value": "25mm (1 in)"
+                    },
+                    {
+                        "name": "Nhiệt độ làm việc",
+                        "value": "60°C (140°F) "
+                    },
+                    {
+                        "name": "Có thể nhúng sâu đến",
+                        "value": "50m (164 ft)"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
     },
     {
-        "name": "Máy khoan búa và vặn vít Makita HP0300 (10MM)",
+        "name": "Máy khoan động lực pin Bosch GSB 120-LI GEN II",
         "shortDescription": "",
         "description": "mo ta",
-        "sku": "HP0300",
-        "slug": "May-khoan-bua-va-van-vit-Makita-HP0300-(10MM)",
-        "price": 1194000,
-        "brand": "Makita",
+        "sku": "GSB 120-LI GEN II",
+        "slug": "may-khoan-djong-luc-pin-bosch-gsb-120-li-gen-ii",
+        "guarantee": "12 Tháng",
+        "price": 2410000,
+        "brand": "Bosch",
         "images": [
             {
-                "caption": "Máy khoan búa và vặn vít Makita HP0300 (10MM)",
-                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-bua-va-van-vit-makita-hp0300-10mm-1-1608955130.jpg"
+                "caption": "Máy khoan động lực pin Bosch GSB 120-LI GEN II",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-GSB-120-li-2019.jpg"
+            },
+            {
+                "caption": "Máy khoan động lực pin Bosch GSB 120-LI GEN II",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bo-khoan-pin-bosch-gsb-120-li.png"
+            },
+            {
+                "caption": "Máy khoan động lực pin Bosch GSB 120-LI GEN II",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-hop-dung-bo-khoan-pin-bosch-gsb-120-li.png"
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Công suất",
-                "value": "320W"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Mô-men xoắn, tối đa (cứng/mềm)",
+                        "value": "28 / 11 Nm"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "1300 vòng/phút"
+                    },
+                    {
+                        "name": "Tỷ lệ va đập tối đa",
+                        "value": "22000 lần/phút"
+                    },
+                    {
+                        "name": "Khả năng của đầu cặp, tối đa/tối thiểu",
+                        "value": "0,3 – 10 mm"
+                    },
+                    {
+                        "name": "Điện áp pin",
+                        "value": "12 V"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "188mm x 46mm x 195mm (Dài x rộng x cao)"
+                    },
+                    {
+                        "name": "Kiểu pin",
+                        "value": "Ion lithium"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên gỗ",
+                        "value": "19 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên thép",
+                        "value": "6 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan tối đa trên khối xây nề",
+                        "value": "8 mm"
+                    },
+                    {
+                        "name": "Đường kính vít tối đa",
+                        "value": "7 mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1,1 kg"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan bê tông Bosch GBH 2-26 DRE",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "GBH 2-26 DRE",
+        "slug": "may-khoan-be-tong-bosch-gbh-2-26-dre",
+        "guarantee": "12 tháng",
+        "price": 3490000,
+        "brand": "Bosch",
+        "images": [
+            {
+                "caption": "Máy khoan bê tông Bosch GBH 2-26 DRE",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bosch-gbh-2-26-dre-anh1.jpg"
             },
             {
-                "name": "Khả năng khoan bê tông",
-                "value": "Ø8mm"
+                "caption": "Máy khoan bê tông Bosch GBH 2-26 DRE",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bosch-gbh-2-26-dre-anh.jpg"
             },
             {
-                "name": "Khả năng khoan sắt",
-                "value": "Ø10mm"
+                "caption": "Máy khoan bê tông Bosch GBH 2-26 DRE",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bosch-gbh-2-26-dre-anh2.jpg"
             },
             {
-                "name": "Khả năng khoan gỗ",
-                "value": "Ø28mm"
+                "caption": "Máy khoan bê tông Bosch GBH 2-26 DRE",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-bosch-gbh-2-26-dre-anh3.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "800W"
+                    },
+                    {
+                        "name": "Năng lượng va đập",
+                        "value": "3 J"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "0 – 4000 vòng/phút"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 900 vòng/phút"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "2.9 kg"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "407mm x 83mm x 210mm (Dài x rộng x cao)"
+                    },
+                    {
+                        "name": "Đầu kẹp mũi khoan",
+                        "value": "SDS-plus"
+                    },
+                    {
+                        "name": "Đường kính khoan bê tông",
+                        "value": "4 – 26 mm"
+                    },
+                    {
+                        "name": "Làm việc tối ưu trên bê tông, các mũi khoan búa",
+                        "value": "8 – 16 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan gạch",
+                        "value": "26 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "13 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "30 mm"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan vặn vít dùng pin Makita DF488DWE",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "DF488DWE",
+        "slug": "may-khoan-van-vit-dung-pin-makita-df488dwe",
+        "guarantee": "12 Tháng",
+        "price": 2557000,
+        "brand": "Makita",
+        "images": [
+            {
+                "caption": "Máy khoan vặn vít dùng pin Makita DF488DWE ",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-18v-makita-df488dwe-1639706758.jpeg"
             },
             {
-                "name": "Tốc độ đập cao",
-                "value": "0 - 22.500l/p"
+                "caption": "Máy khoan vặn vít dùng pin Makita DF488DWE ",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-18v-makita-df488dwe-1-1639707151.jpg"
             },
             {
-                "name": "Tốc độ đập thấp",
-                "value": "0 - 6.750l/p"
+                "caption": "Máy khoan vặn vít dùng pin Makita DF488DWE ",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-18v-makita-df488dwe-3-1639707174.jpg"
             },
             {
-                "name": "Tốc độ không tải cao",
-                "value": "0 - 1.500v/p"
+                "caption": "Máy khoan vặn vít dùng pin Makita DF488DWE ",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-18v-makita-df488dwe-8-1639707518.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Điện thế pin",
+                        "value": "18V x 1.5Ah"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "Cao 0 - 1400 / Thấp"
+                    },
+                    {
+                        "name": "Lực siết khóa tối đa",
+                        "value": "38 N.m"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "36mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "13mm"
+                    },
+                    {
+                        "name": "Kích thước (L X W X H)",
+                        "value": "221 x 83 x 240 mm"
+                    },
+                    {
+                        "name": "Độ ồn",
+                        "value": "70dB"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.7kg"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Bộ máy khoan vặn vít Makita CLX224S (TD110D+DF333D) kèm pin sạc",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "CLX224S",
+        "slug": "bo-may-khoan-van-vit-makita-clx224s-(td110d+df333d)-kem-pin-sac",
+        "guarantee": "12 Tháng",
+        "price": 3465000,
+        "brand": "Makita",
+        "images": [
+            {
+                "caption": "Bộ máy khoan vặn vít Makita CLX224S (TD110D+DF333D) kèm pin sạc",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-clx224s-1608689807.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
+            {
+                "attributeId": 1,
+                "items": []
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "GSB 180-LI",
+        "slug": "may-khoan-van-vit-dung-pin-bosch-gsb-180-li-kem-phu-kien",
+        "guarantee": "12 Tháng",
+        "price": 3240000,
+        "brand": "Bosch",
+        "images": [
+            {
+                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-500.jpg"
             },
             {
-                "name": "Tốc độ không tải thấp",
-                "value": "0 - 450v/p"
+                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh1.jpg"
             },
             {
-                "name": "Đầu cặp",
-                "value": "0.8 - 10mm"
+                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh2.jpg"
             },
             {
-                "name": "Kích thước",
-                "value": "235x67x206mm"
-            },
+                "caption": "Máy khoan vặn vít dùng Pin Bosch GSB 180-LI  kèm phụ kiện",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-van-vit-dung-pin-bosch-gsb-180-li-hinh3.jpg"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Trọng lượng",
-                "value": "1.3Kg"
-            },
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Lực xoắn tối đa (cứng / mềm)",
+                        "value": "21/54 Nm"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 450/0 – 1700 vòng / phút"
+                    },
+                    {
+                        "name": "Tốc độ đập",
+                        "value": "27.000 lần/phút"
+                    },
+                    {
+                        "name": "Loại pin Lithium-ion",
+                        "value": "2.0 Ah"
+                    },
+                    {
+                        "name": "Đường kính khoan gỗ",
+                        "value": "35mm"
+                    },
+                    {
+                        "name": "Đường kính khoan thép",
+                        "value": "10 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan bê tông",
+                        "value": "10mm"
+                    },
+                    {
+                        "name": "Cỡ vít tối đa",
+                        "value": "10mm"
+                    },
+                    {
+                        "name": "Điện áp pin",
+                        "value": "18 V"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.3kg"
+                    },
+                    {
+                        "name": "Đầu cặp",
+                        "value": "13mm"
+                    },
+                    {
+                        "name": "Hãng sx",
+                        "value": "Bosch Đức"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Malaysia"
+                    }
+                ]
+            }
+        ],
+        "isAvailInStock": false
+    },
+    {
+        "name": "Máy khoan và vặn vít Makita DF0300 (10MM)",
+        "shortDescription": "",
+        "description": "mo ta",
+        "sku": "DF0300",
+        "slug": "may-khoan-va-van-vit-makita-df0300-(10mm)",
+        "guarantee": "12 Tháng",
+        "price": 1078000,
+        "brand": "Makita",
+        "images": [
             {
-                "name": "Dây dẫn điện dài",
-                "value": "2.5m"
-            },
+                "caption": "Máy khoan và vặn vít Makita DF0300 (10MM)",
+                "urlLocalImage": "/Users/tanha/dev/work/data/dienmaykimkhi/images/product/500x-may-khoan-va-van-vit-makita-df0300-10mm-1608802255.png"
+            }
+        ],
+        "productRelate": null,
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Xuất xứ",
-                "value": "Trung Quốc"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "320W"
+                    },
+                    {
+                        "name": "Khả năng khoan sắt",
+                        "value": "Ø10mm"
+                    },
+                    {
+                        "name": "Khả năng khoan gỗ",
+                        "value": "Ø28mm"
+                    },
+                    {
+                        "name": "Tốc độ không tải cao",
+                        "value": "0 - 1.500 vòng/phút"
+                    },
+                    {
+                        "name": "Tốc độ không tải thấp",
+                        "value": "0 - 450 vòng/phút"
+                    },
+                    {
+                        "name": "Đầu cặp",
+                        "value": "0.8 - 10mm"
+                    },
+                    {
+                        "name": "Kích thước",
+                        "value": "220x67x206mm"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.2Kg"
+                    },
+                    {
+                        "name": "Dây dẫn điện dài",
+                        "value": "2.5m"
+                    },
+                    {
+                        "name": "Xuất xứ",
+                        "value": "Trung Quốc"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
@@ -1714,7 +2403,8 @@
         "shortDescription": "",
         "description": "mo ta",
         "sku": "GSB 16 RE",
-        "slug": "May-khoan-djong-luc-Bosch-GSB-16-RE-Vali-nhua",
+        "slug": "may-khoan-djong-luc-bosch-gsb-16-re-vali-nhua",
+        "guarantee": "12 tháng",
         "price": 1650000,
         "brand": "Bosch",
         "images": [
@@ -1736,46 +2426,52 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Đầu vào công suất định mức",
-                "value": "750W"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 – 3250 vòng/phút"
-            },
-            {
-                "name": "Trọng lượng",
-                "value": "1.6 kg"
-            },
-            {
-                "name": "Ren nối trục chính máy khoan",
-                "value": "1/2″-20 UNF"
-            },
-            {
-                "name": "Khả năng của đầu cặp",
-                "value": "1,5 – 13 mm"
-            },
-            {
-                "name": "Tỷ lệ va đập ở tốc độ không tải",
-                "value": "0 – 48000 vòng/phút"
-            },
-            {
-                "name": "Đường kính khoan trên bê tông",
-                "value": "16 mm"
-            },
-            {
-                "name": "Đường kính khoan trên gỗ",
-                "value": "25 mm"
-            },
-            {
-                "name": "Đường kính khoan trên thép",
-                "value": "12 mm"
-            },
-            {
-                "name": "Sản xuất tại",
-                "value": "Malaysia"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Đầu vào công suất định mức",
+                        "value": "750W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 – 3250 vòng/phút"
+                    },
+                    {
+                        "name": "Trọng lượng",
+                        "value": "1.6 kg"
+                    },
+                    {
+                        "name": "Ren nối trục chính máy khoan",
+                        "value": "1/2″-20 UNF"
+                    },
+                    {
+                        "name": "Khả năng của đầu cặp",
+                        "value": "1,5 – 13 mm"
+                    },
+                    {
+                        "name": "Tỷ lệ va đập ở tốc độ không tải",
+                        "value": "0 – 48000 vòng/phút"
+                    },
+                    {
+                        "name": "Đường kính khoan trên bê tông",
+                        "value": "16 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên gỗ",
+                        "value": "25 mm"
+                    },
+                    {
+                        "name": "Đường kính khoan trên thép",
+                        "value": "12 mm"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Malaysia"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false
@@ -1785,7 +2481,8 @@
         "shortDescription": "",
         "description": "mo ta",
         "sku": "M6001B",
-        "slug": "May-khoan-Makita-M6001B-450W",
+        "slug": "may-khoan-makita-m6001b-450w",
+        "guarantee": "12 Tháng",
         "price": 894000,
         "brand": "Makita",
         "images": [
@@ -1811,38 +2508,44 @@
             }
         ],
         "productRelate": null,
-        "metadata": [
+        "metadata": [],
+        "attributes": [
             {
-                "name": "Công suất",
-                "value": "450W"
-            },
-            {
-                "name": "Tốc độ không tải",
-                "value": "0 - 3.000 vòng/phút"
-            },
-            {
-                "name": "Đầu cặp tối đa",
-                "value": "10 mm"
-            },
-            {
-                "name": "Dây dẫn điện",
-                "value": "2.0 m"
-            },
-            {
-                "name": "Khả năng khoan thép",
-                "value": "10 mm"
-            },
-            {
-                "name": "Khả năng khoan gỗ",
-                "value": "25 mm"
-            },
-            {
-                "name": "Chiều dài dây nguồn",
-                "value": "2m"
-            },
-            {
-                "name": "Sản xuất tại",
-                "value": "Thái Lan"
+                "attributeId": 1,
+                "items": [
+                    {
+                        "name": "Công suất",
+                        "value": "450W"
+                    },
+                    {
+                        "name": "Tốc độ không tải",
+                        "value": "0 - 3.000 vòng/phút"
+                    },
+                    {
+                        "name": "Đầu cặp tối đa",
+                        "value": "10 mm"
+                    },
+                    {
+                        "name": "Dây dẫn điện",
+                        "value": "2.0 m"
+                    },
+                    {
+                        "name": "Khả năng khoan thép",
+                        "value": "10 mm"
+                    },
+                    {
+                        "name": "Khả năng khoan gỗ",
+                        "value": "25 mm"
+                    },
+                    {
+                        "name": "Chiều dài dây nguồn",
+                        "value": "2m"
+                    },
+                    {
+                        "name": "Sản xuất tại",
+                        "value": "Thái Lan"
+                    }
+                ]
             }
         ],
         "isAvailInStock": false

@@ -1,20 +1,61 @@
-const express = require("express");
-const cheerio = require("cheerio");
-const request = require("request");
-const app = express();
-const $ = cheerio.load('<h2 class="title">Hello world</h2>', null, false);
+const fs = require("fs");
 
-$("ul", '<ul id="fruits">...</ul>');
+const attibute = [
+    {
+        name: "Công suất",
+        value: "800W",
+    },
+    {
+        name: "Năng lượng va đập",
+        value: "3 J",
+    },
+    {
+        name: "Tốc độ đập",
+        value: "0 – 4000 vòng/phút",
+    },
+    {
+        name: "Tốc độ không tải",
+        value: "0 – 900 vòng/phút",
+    },
+    {
+        name: "Trọng lượng",
+        value: "2.9 kg",
+    },
+    {
+        name: "Kích thước",
+        value: "407mm x 83mm x 210mm (Dài x rộng x cao)",
+    },
+    {
+        name: "Đầu kẹp mũi khoan",
+        value: "SDS-plus",
+    },
+    {
+        name: "Đường kính khoan bê tông",
+        value: "4 – 26 mm",
+    },
+    {
+        name: "Làm việc tối ưu trên bê tông, các mũi khoan búa",
+        value: "8 – 16 mm",
+    },
+    {
+        name: "Đường kính khoan gạch",
+        value: "26 mm",
+    },
+    {
+        name: "Đường kính khoan thép",
+        value: "13 mm",
+    },
+    {
+        name: "Đường kính khoan gỗ",
+        value: "30 mm",
+    },
+];
 
-// app.get("/", (req, res) => {
-//     // request("https://maydochuyendung.com/may-khoan", (err, response, body) => {
-//     //     if (response.statusCode == 200) {
-//     //         return res.send(body);
-//     //     }
-//     // });
-//     $();
-// });
-
-// app.listen(3333, () => {
-//     console.log("server running on port " + 3333);
-// });
+for (let i = 0; i < attibute.length; i++) {
+    const sql = `INSERT INTO product_attribute_item 
+    (display_order, product_attribute_id, product_id, \`name\`, \`value\`) 
+    VALUES (0, 1, 8, \'${attibute[i].name}\', \'${attibute[i].value}\'); \n`;
+    fs.appendFile("./sql.txt", sql, { encoding: "utf8" }, () => {
+        console.log("insert success");
+    });
+}
